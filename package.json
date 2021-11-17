@@ -10,6 +10,10 @@
 	},
 	"keywords": [],
 	"author": "SuspiciousLookingOwl",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SuspiciousLookingOwl/saweria-webhook-express"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"@types/express": "^4.17.13",
